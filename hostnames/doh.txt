@@ -1,0 +1,26 @@
+dns.apple.com # https://dns.apple.com/
+doh.dns.apple.com # https://doh.dns.apple.com/
+mask-api.icloud.com # https://mask-api.icloud.com/
+doh.opendns.com # https://doh.opendns.com/dns-query
+mozilla.cloudflare-dns.com # https://mozilla.cloudflare-dns.com/dns-query
+doh.cloudflare-dns.com # https://doh.cloudflare-dns.com/dns-query
+cloudflare-dns.com # https://cloudflare-dns.com/dns-query
+dns.google # https://dns.google/dns-query
+dns.goog # https://dns.goog/
+dns.xfinity.com # https://doh.xfinity.com/dns-query
+dns.quad9.net # https://dns.quad9.net/dns-query
+dns9.quad9.net # https://dns9.quad9.net/dns-query
+dns10.quad9.net # https://dns10.quad9.net/dns-query
+dns11.quad9.net # https://dns11.quad9.net/dns-query
+doh.cleanbrowsing.org # https://doh.cleanbrowsing.org/doh/family-filter/; https://doh.cleanbrowsing.org/doh/security-filter/
+uncensored.freedns.controld.com
+freedns.controld.com
+family.freedns.controld.com
+p3.freedns.controld.com
+p2.freedns.controld.com
+p1.freedns.controld.com
+p0.freedns.controld.com
+family.freedns.controld.com
+x-oisd.freedns.controld.com
+x-energized-basic.freedns.controld.com
+x-energized-ultimate.freedns.controld.com
