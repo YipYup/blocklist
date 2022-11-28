@@ -1,0 +1,15 @@
+api.accuweather.com
+api.weather.com
+api.weatherapi.com
+aviationweather.gov
+data-live.flightradar24.com
+icao.int
+jbv1.net
+nominatim.openstreetmap.org
+opensky-network.org
+overpass-api.de
+rpi.rb24.com
+store.valentine1.com
+tiles.highwayradar.com
+www.waze.com
+wzsabre.rocks
