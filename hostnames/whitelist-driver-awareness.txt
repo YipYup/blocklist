@@ -1,0 +1,7 @@
+alerts.drivealert.io
+api.pulsepoint.org
+driveaware.app
+iradar.escortassist.net
+live3.escortassist.net
+rideaware.app
+speedcheetah-api.azurewebsites.net
