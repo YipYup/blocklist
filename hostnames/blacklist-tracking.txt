@@ -21,8 +21,6 @@ criteo.com
 customer.io
 demdex.net
 disqus.com
-dns.apple.com
-doh.dns.apple.com
 dreamcast.hk
 dt.videohub.tv
 ebayadservices.com
