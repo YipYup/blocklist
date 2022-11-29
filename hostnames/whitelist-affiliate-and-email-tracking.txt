@@ -13,6 +13,10 @@ click.e.usa.experian.com # Experian email marketing click-thru
 e.mail.mlblists.com
 ce.homeadvisor.com
 click.klm-mail.com
+click.email.famousfootwear.com
+click.e.questdiagnostics.com
+click.oe.target.com
+click.em.target.com
 click.e.zoom.us
 click.em.samsclub.com # SamsClub.com click-thru email marketing links
 click.em.target.com
