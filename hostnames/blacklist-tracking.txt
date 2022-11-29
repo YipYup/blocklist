@@ -63,6 +63,8 @@ sci-direct.net
 shopzilla.com
 sonos.extole.io
 spade.twitch.tv
+sproutlink.pollinator.me
+pollinator.me
 spo-ring.msedge.net
 static-cdn.jtvnw.net
 static-v.tawk.to
