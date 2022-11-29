@@ -8,6 +8,7 @@ click.e.krispykreme.com
 click.e.krogermail.com # Kroger email marketing click through
 click.e.lowes.com # Lowe's email marketing click through
 click.e.noodles.com
+click.zoom.us
 click.e.safelite.com # SafeLite Autoglass email marketing click through
 click.e.sees.com # See's Candy email marketing click-thru
 click.e.usa.experian.com # Experian email marketing click-thru
