@@ -1,30 +1,23 @@
 a.co # amazon.com short links
 amzn.to # amazon affiliate links
+ce.homeadvisor.com
 click.chp.kohls.com # Kohls.com click-thru links
 click.convertkit-mail.com
-click.online.costco.com
 click.e.hostgator.com
 click.e.krispykreme.com
 click.e.krogermail.com # Kroger email marketing click through
 click.e.lowes.com # Lowe's email marketing click through
 click.e.noodles.com
-click.zoom.us
+click.e.questdiagnostics.com
 click.e.safelite.com # SafeLite Autoglass email marketing click through
 click.e.sees.com # See's Candy email marketing click-thru
 click.e.usa.experian.com # Experian email marketing click-thru
-e.mail.mlblists.com
-ce.homeadvisor.com
-click.homedepotemail.com
-click.klm-mail.com
-click.email.famousfootwear.com
-click.e.questdiagnostics.com
-click.oe.target.com
-click.em.target.com
 click.e.zoom.us
 click.em.samsclub.com # SamsClub.com click-thru email marketing links
 click.em.target.com
 click.email-carmax.com
 click.email.ancestry.com
+click.email.famousfootwear.com
 click.email.gasbuddy.com
 click.email.jcpenney.com # JC Penney email marketing click-thru
 click.email.livenation.com
@@ -36,28 +29,35 @@ click.emailbenefithub.us
 click.emailinfo2.bestbuy.com
 click.emails.barclaysus.com
 click.emails.paypal.com
-clicks.email.peacocktv.com
 click.emcom.bankofamerica.com # Bank of America email marketing click-thru
 click.emedia.nraila.org
 click.fidelityinvestments.com # Fidelity Investments email marketing click-thru
-click.holidayinnclubemail.com
 click.holidayinnclubemail.com # Holiday Inn email marketing click-thru
+click.homedepotemail.com
 click.info.chamberlain.com
+click.klm-mail.com
 click.landsend.com # Lands' End email marketing click through
 click.mail.hotels.com
 click.mc.ihg.com
 click.members.nra.org # NRA member updates email click-thru
 click.messages.xoom.com
-click.mlsend.com
 click.mlsend.com # MailerLite.com email marketing SaaS - clickthru tracking
-click.mlsend2.com
-click.o.delta.com
+click.mlsend2.com # MailerLite.com email marketing SaaS - clickthru tracking
 click.o.delta.com # Delta Airlines email marketing click-thru
+click.oe.target.com
+click.online.costco.com
 click.royalcaribbeanmarketing.com # Royal Caribbean email marketing click-thru
 click.s.kohls.com # Kohls.com click-thru links
 click.t.delta.com
 click.yourhealth-wellnessteam.com
+click.zoom.us
+clicks.email.peacocktv.com
+clicks.fool.com
+clicks.papamurphys.com
 ct.klclick.com # Klaviyo email & sms marketing SaaS click-thru links (Klaviyo.com)
+e-clicks.guns.com
+e.email.consumerreports.org
+e.mail.mlblists.com
 em.harborfreight.com
 image.em.samsclub.com # SamsClub.com marketing email body content images
 link.connected.staples.com
