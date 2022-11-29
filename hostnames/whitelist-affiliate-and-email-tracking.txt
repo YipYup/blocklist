@@ -10,6 +10,8 @@ click.e.noodles.com
 click.e.safelite.com # SafeLite Autoglass email marketing click through
 click.e.sees.com # See's Candy email marketing click-thru
 click.e.usa.experian.com # Experian email marketing click-thru
+e.mail.mlblists.com
+ce.homeadvisor.com
 click.e.zoom.us
 click.em.samsclub.com # SamsClub.com click-thru email marketing links
 click.em.target.com
@@ -26,6 +28,7 @@ click.emailbenefithub.us
 click.emailinfo2.bestbuy.com
 click.emails.barclaysus.com
 click.emails.paypal.com
+clicks.email.peacocktv.com
 click.emcom.bankofamerica.com # Bank of America email marketing click-thru
 click.emedia.nraila.org
 click.fidelityinvestments.com # Fidelity Investments email marketing click-thru
