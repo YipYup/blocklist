@@ -2,6 +2,7 @@ a.co # amazon.com short links
 amzn.to # amazon affiliate links
 click.chp.kohls.com # Kohls.com click-thru links
 click.convertkit-mail.com
+click.online.costco.com
 click.e.hostgator.com
 click.e.krispykreme.com
 click.e.krogermail.com # Kroger email marketing click through
