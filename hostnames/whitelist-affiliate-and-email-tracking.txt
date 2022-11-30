@@ -1,3 +1,7 @@
+trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
+atrack.allposters.com
 a.co # amazon.com short links
 amzn.to # amazon affiliate links
 ce.homeadvisor.com
