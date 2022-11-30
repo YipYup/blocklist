@@ -6,6 +6,7 @@ click.chp.kohls.com # Kohls.com click-thru links
 click.convertkit-mail.com
 click.e-offers.dominos.com
 click.e.collegeboard.org
+trk.ecomm.lenovo.com
 click.e.fanaticsretailgroup.com
 click.e.hostgator.com
 click.e.krispykreme.com
