@@ -1,4 +1,5 @@
 4chan.org
+da.usaa.com
 a1.tuyaus.com
 adhigh.net
 adstudio-assets.scdn.co
@@ -24,6 +25,7 @@ disqus.com
 dreamcast.hk
 dt.videohub.tv
 ebayadservices.com
+blu.ksl.com
 exo-ring.msedge.net
 fiksu.com
 fp-vp.azureedge.net
