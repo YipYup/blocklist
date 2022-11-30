@@ -29,6 +29,7 @@ click.em.shutterfly.com
 click.em.target.com
 click.email-carmax.com
 click.email.ancestry.com
+click.email.usa.avon.com
 click.email.chilis.com
 click.email.cirquedusoleil.com
 click.email.famousfootwear.com
