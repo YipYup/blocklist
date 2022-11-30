@@ -4,33 +4,52 @@ atrack.allposters.com
 ce.homeadvisor.com
 click.chp.kohls.com # Kohls.com click-thru links
 click.convertkit-mail.com
+click.e-offers.dominos.com
+click.e.collegeboard.org
+click.e.fanaticsretailgroup.com
 click.e.hostgator.com
 click.e.krispykreme.com
 click.e.krogermail.com # Kroger email marketing click through
 click.e.lowes.com # Lowe's email marketing click through
 click.e.noodles.com
+click.e.pnc.com
+click.e.potterybarn.com
 click.e.questdiagnostics.com
 click.e.safelite.com # SafeLite Autoglass email marketing click through
 click.e.sees.com # See's Candy email marketing click-thru
+click.e.ulta.com
+click.e.usa.experian.com
 click.e.usa.experian.com # Experian email marketing click-thru
 click.e.zoom.us
+click.e1.victoriassecret.com
+click.e2.bathandbodyworks.com
+click.em.biglots.com
 click.em.samsclub.com # SamsClub.com click-thru email marketing links
 click.em.shutterfly.com
 click.em.target.com
 click.email-carmax.com
 click.email.ancestry.com
+click.email.chilis.com
+click.email.cirquedusoleil.com
 click.email.famousfootwear.com
+click.email.gapfactory.com
 click.email.gasbuddy.com
 click.email.jcpenney.com # JC Penney email marketing click-thru
 click.email.livenation.com
 click.email.nationalcar.com
+click.email.oldnavy.com
+click.email.padicdn.com
 click.email.sandiegouniontribune.com
+click.email.schwab.com
 click.email.teamusa.org
 click.email.ticketmaster.com
+click.email.vimeo.com
 click.email.wyndhamvo.com
+click.email1.geico.com
 click.emailbenefithub.us
 click.emailinfo2.bestbuy.com
 click.emails.barclaysus.com
+click.emails.lifeisgood.com
 click.emails.paypal.com
 click.emcom.bankofamerica.com # Bank of America email marketing click-thru
 click.emedia.nraila.org
@@ -56,6 +75,7 @@ click.t.delta.com
 click.yourhealth-wellnessteam.com
 click.zoom.us
 clicks.email.peacocktv.com
+clicks.eventbrite.com
 clicks.fool.com
 clicks.papamurphys.com
 ct.klclick.com # Klaviyo email & sms marketing SaaS click-thru links (Klaviyo.com)
