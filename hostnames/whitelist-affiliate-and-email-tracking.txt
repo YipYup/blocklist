@@ -1,9 +1,6 @@
-trk.klclick1.com
-trk.klclick2.com
-trk.klclick3.com
-atrack.allposters.com
 a.co # amazon.com short links
 amzn.to # amazon affiliate links
+atrack.allposters.com
 ce.homeadvisor.com
 click.chp.kohls.com # Kohls.com click-thru links
 click.convertkit-mail.com
@@ -18,6 +15,7 @@ click.e.sees.com # See's Candy email marketing click-thru
 click.e.usa.experian.com # Experian email marketing click-thru
 click.e.zoom.us
 click.em.samsclub.com # SamsClub.com click-thru email marketing links
+click.em.shutterfly.com
 click.em.target.com
 click.email-carmax.com
 click.email.ancestry.com
@@ -26,6 +24,7 @@ click.email.gasbuddy.com
 click.email.jcpenney.com # JC Penney email marketing click-thru
 click.email.livenation.com
 click.email.nationalcar.com
+click.email.sandiegouniontribune.com
 click.email.teamusa.org
 click.email.ticketmaster.com
 click.email.wyndhamvo.com
@@ -50,6 +49,7 @@ click.mlsend2.com # MailerLite.com email marketing SaaS - clickthru tracking
 click.o.delta.com # Delta Airlines email marketing click-thru
 click.oe.target.com
 click.online.costco.com
+click.redditmail.com
 click.royalcaribbeanmarketing.com # Royal Caribbean email marketing click-thru
 click.s.kohls.com # Kohls.com click-thru links
 click.t.delta.com
@@ -67,3 +67,6 @@ image.em.samsclub.com # SamsClub.com marketing email body content images
 link.connected.staples.com
 link.customer.thumbtack.com
 scene7.com
+trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
