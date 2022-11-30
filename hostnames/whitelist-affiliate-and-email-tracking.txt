@@ -23,13 +23,13 @@ click.e.usa.experian.com # Experian email marketing click-thru
 click.e.zoom.us
 click.e1.victoriassecret.com
 click.e2.bathandbodyworks.com
+click.em.1800flowersinc.com
 click.em.biglots.com
 click.em.samsclub.com # SamsClub.com click-thru email marketing links
 click.em.shutterfly.com
 click.em.target.com
 click.email-carmax.com
 click.email.ancestry.com
-click.email.usa.avon.com
 click.email.chilis.com
 click.email.cirquedusoleil.com
 click.email.famousfootwear.com
@@ -43,7 +43,9 @@ click.email.padicdn.com
 click.email.sandiegouniontribune.com
 click.email.schwab.com
 click.email.teamusa.org
+click.email.teladochealth.com
 click.email.ticketmaster.com
+click.email.usa.avon.com
 click.email.vimeo.com
 click.email.wyndhamvo.com
 click.email1.geico.com
