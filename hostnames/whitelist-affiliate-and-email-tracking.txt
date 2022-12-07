@@ -1,5 +1,6 @@
 a.co # amazon.com short links
 amzn.to # amazon affiliate links
+email.mail.paylocity.com # Paylocity paycheck notifications
 atrack.allposters.com
 ce.homeadvisor.com
 click.chp.kohls.com # Kohls.com click-thru links
