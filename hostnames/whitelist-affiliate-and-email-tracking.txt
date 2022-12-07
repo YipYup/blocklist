@@ -11,6 +11,7 @@ trk.ecomm.lenovo.com
 click.e.fanaticsretailgroup.com
 click.e.hostgator.com
 click.e.krispykreme.com
+email.mxtoolbox.com # MXToolbox reports
 click.e.krogermail.com # Kroger email marketing click through
 click.e.lowes.com # Lowe's email marketing click through
 click.e.noodles.com
