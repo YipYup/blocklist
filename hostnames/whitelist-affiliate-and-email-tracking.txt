@@ -2,7 +2,16 @@ a.co # amazon.com short links
 amzn.to # amazon affiliate links
 email.mail.paylocity.com # Paylocity paycheck notifications
 atrack.allposters.com
+click.email.cirquedusoleil.com
+click.e.potterybarn.com
+click.e.utah.edu
+click.e2.bathandbodyworks.com
+click.email.chilis.com
 ce.homeadvisor.com
+click.email.active.com
+click.e.simplifycompliance.com
+click.email.broadwayacrossamerica.com
+click.email.wyndhamvo.com
 click.chp.kohls.com # Kohls.com click-thru links
 click.convertkit-mail.com
 click.e-offers.dominos.com
@@ -36,6 +45,8 @@ click.email.ancestry.com
 click.email.chilis.com
 click.email.cirquedusoleil.com
 click.email.famousfootwear.com
+click.emails.lifeisgood.com
+click.e.fanaticsretailgroup.com
 click.email.gapfactory.com
 click.email.gasbuddy.com
 click.email.jcpenney.com # JC Penney email marketing click-thru
