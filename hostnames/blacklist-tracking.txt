@@ -9,6 +9,7 @@ advrts.onelouder.com
 app-measurement.com
 arc.msn.com.nsatc.net
 avct.cloud
+metrics-a.wbx2.com
 bluekai.com
 browser-sentry-cdn.com
 browser.sentry-cdn.com
