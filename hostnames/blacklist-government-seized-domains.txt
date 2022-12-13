@@ -1,0 +1,4 @@
+IPStress.in # https://www.justice.gov/usao-dc/pr/weleakinfoto-and-related-domain-names-seized, DOJ PR 22-168
+ovh-booter.com # https://www.justice.gov/usao-dc/pr/weleakinfoto-and-related-domain-names-seized, DOJ PR 22-168
+weleakinfo.com # https://www.justice.gov/usao-dc/pr/weleakinfoto-and-related-domain-names-seized, DOJ PR 22-168
+weleakinfo.to # https://www.justice.gov/usao-dc/pr/weleakinfoto-and-related-domain-names-seized, DOJ PR 22-168
