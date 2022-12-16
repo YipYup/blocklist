@@ -119,7 +119,6 @@ tracking.contanuity.com
 traq.li
 trustcor.com
 tuyaus.com
-use-application-dns.net
 userapi.com
 usher.ttvnw.net
 va.tawk.to
