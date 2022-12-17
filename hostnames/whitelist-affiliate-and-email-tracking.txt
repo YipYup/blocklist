@@ -2,6 +2,15 @@ a.co # amazon.com short links
 amzn.to # amazon affiliate links
 email.mail.paylocity.com # Paylocity paycheck notifications
 click.e.godaddy.com
+click.email.healthalliance.org
+click.email.hays.com
+click.email.usa.avon.com
+click.email1.geico.com
+click.em.primexinc.com
+click.e-offers.dominos.com
+click.email.mauijim.com
+click.email.homedepot.com
+click.email.oldnavy.com
 click.everyaction.com
 atrack.allposters.com
 click.email.cirquedusoleil.com
@@ -21,6 +30,7 @@ click.e.collegeboard.org
 trk.ecomm.lenovo.com
 click.e.fanaticsretailgroup.com
 click.e.hostgator.com
+click.email.vimeo.com
 click.e.krispykreme.com
 email.mxtoolbox.com # MXToolbox reports
 click.e.krogermail.com # Kroger email marketing click through
