@@ -1,6 +1,7 @@
 a.co # amazon.com short links
 amzn.to # amazon affiliate links
 email.mail.paylocity.com # Paylocity paycheck notifications
+click.e.godaddy.com
 atrack.allposters.com
 click.email.cirquedusoleil.com
 click.e.potterybarn.com
