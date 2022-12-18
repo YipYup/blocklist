@@ -55,6 +55,7 @@ go.pardot.com
 gstaticadssl.l.google.com
 hdslb.com
 healthyoffers.com
+hearstapps.com
 iadsdk.apple.com
 impactradius-event.io
 informeddelivery.usps.com
