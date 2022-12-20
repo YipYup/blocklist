@@ -1,5 +1,6 @@
 a1.tuyaus.com
 analytics.blocksite.co
+analytics.byupw.org # https://www.byupathway.org/
 abm-tracking.demandscience.com
 adhigh.net
 adstudio-assets.scdn.co
